@@ -11,11 +11,11 @@ import './Center.scss';
 function Center() {
 
   return (
-    <>
+    <div>
       <Orders />
       <Cards />
       <About />
-    </>
+    </div>
   );
 }
 
